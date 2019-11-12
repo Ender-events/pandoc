@@ -3,3 +3,6 @@ description: "Pandoc core with full latex and Firafoot"
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+  icon: 'book'
+  color: 'green'
