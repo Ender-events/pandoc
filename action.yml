@@ -1,5 +1,5 @@
 name: "Pandoc with Latex"
-description: "Pandoc core with full latex and Firafoot"
+description: "Pandoc core with full latex and Fira font"
 runs:
   using: 'docker'
   image: 'Dockerfile'
